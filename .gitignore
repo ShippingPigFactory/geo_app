@@ -1,0 +1,5 @@
+venv/
+.env
+__pycache__/
+*.csv
+!test_input.csv
