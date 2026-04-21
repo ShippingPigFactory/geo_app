@@ -1,4 +1,0 @@
-googlemaps
-pandas
-python-dotenv
-tqdm
